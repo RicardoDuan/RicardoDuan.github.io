@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Atrist'Blog
+heroText: Ricardo'Blog
 tagline: The answer to the question
 actionText: Get Started
 actionLink: /Front/

@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Atrist
+heroText: Ricardo
 tagline: The answer of the question
 actionText: 知识库
 actionLink: /know/front/
@@ -11,13 +11,13 @@ features:
     details: 问题的经验之地
   - title: 源码阅读
     details: 优秀项目的构建和代码的学习
-footer: MIT Licensed | Copyright © 2021-present Atrist
+footer: MIT Licensed | Copyright © 2021-present Ricardo
 ---
 
 
 ***
 
-重要是的输出，是有思考的输出，是持续的输出。
+重要是的输出，是持续的、有思考的输出。
 
 
 
